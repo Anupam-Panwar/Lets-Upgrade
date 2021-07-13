@@ -12,7 +12,7 @@ const App = ({ name }) => {
           <button
             className="btn"
             onClick={() => {
-              score < 25 ? setScore(score + 1) : setScore(0);
+              score < 25 ? setScore(score + 1) : setScore(25);
             }}
           >
             {" "}
