@@ -1,0 +1,45 @@
+.icon {
+  font-size: 10vh;
+}
+.cross {
+  color: red;
+}
+.circle {
+  color: blue;
+}
+body {
+  background: linear-gradient(to right, #3a7bd5, #3a6073);
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 15px;
+  height: 68vh;
+  width: auto;
+}
+.box {
+  width: auto;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.start {
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  margin: 10px;
+}
+
+.heading {
+  height: 18vh;
+}
