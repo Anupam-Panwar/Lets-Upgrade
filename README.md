@@ -1,4 +1,4 @@
-# LetsUpgrade-ReactJS
+# LetsUpgrade's Bootcamps
 
-* This repo contain all the files related to LetsUpgrade ReactJS Bootcamp
-* It contains all the assignments given in the Bootcamp
+* This repo contain all the files related to LetsUpgrad's Bootcamps
+* It contains all the assignments given in the Bootcamps
